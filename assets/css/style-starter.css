@@ -3194,7 +3194,7 @@ a.read-more-btn.btn:hover {
 }
 
 .template a:hover {
-  color: #271b1a;
+  color: #f75940;
   text-decoration: none;
 }
 
@@ -3205,7 +3205,7 @@ a.read-more-btn.btn:hover {
 }
 
 .template header.active {
-  background: #f75940;
+  background: #181616;
 }
 
 .template .navbar {
